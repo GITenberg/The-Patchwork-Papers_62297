@@ -1,0 +1,37 @@
+_repo: The-Patchwork-Papers_62297
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Thurston, E. Temple (Ernest Temple)
+    aliases:
+    - Thurston, Temple
+    - Thurston, Ernest Temple
+    birthdate: 1879
+    deathdate: 1933
+    gutenberg_agent_id: '7023'
+    url: http://www.gutenberg.org/2009/agents/7023
+    wikipedia: http://en.wikipedia.org/wiki/E._Temple_Thurston
+description: ''
+gutenberg_issued: '2020-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62297'
+  lccn: tmp92007294
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English essays -- 20th century'
+- GITenberg
+tableOfContents: The pension of the patchwork quilt -- The mouse-trap, Henrietta street
+  -- The wonderful city -- Bellwattle and the laws of God -- Realism -- The Sabbath
+  -- House to let -- A suffragette -- Bellwattle and the laws of nature -- May Eve
+  -- The flower beautiful -- The feminine appreciation of mathematics -- The maternal
+  instinct -- From my portfolio -- An old string bonnet -- The new malady -- Bellwattle
+  and the dignity of men -- The night the pope died -- Art -- The value of idleness
+  -- The spirit of competition -- Bellwattle on the higher mathematics -- The mystery
+  of the vote -- Ship's logs.
+title: The Patchwork Papers
+url: http://www.gutenberg.org/ebooks/62297
